@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {{ profile.user.username }} <br>
+    {{ profile.bio }} <br>
+
+    {% if profile.profile_pic %}
+        <img src="{{ profile.profile_pic.url }}" class="card-img-top" alt="" width="100px" height="100px"> <br>
+    {% else %}
+        <img src="https://sun6-20.userapi.com/s/v1/if1/xgM6I4x2u35vNxUYF9V9mpts5ShmdRRAn1G6Ld6Bll0owBD6gghZVTB3V1XyKYUI_6m8JGOl.jpg?size=1391x1391&quality=96&crop=0,0,1391,1391&ava=1" class="card-img-top" alt="" width="100px" height="100px"> <br>
+    {% endif %}
+
+
+    {% if profile.city %}
+        {{ profile.city }} <br>
+    {% else %}
+        Город не установлен <br>
+    {% endif %}
+
+
+    <a href="{% url 'update_profile' user_id %}">Обновить профиль</a>
+    <a href="{% url 'main_page' %}">Назад</a>
+
+</body>
+</html>

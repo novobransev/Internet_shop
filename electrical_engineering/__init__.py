@@ -1,0 +1,1 @@
+default_app_config = 'electrical_engineering.apps.ElectricalEngineeringConfig'

@@ -1,0 +1,1654 @@
+[
+  {
+    "pk": 0,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Афганистан"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Албания"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Алжир"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Самоа"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Андорра"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ангола"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ангилья "
+    }
+  },
+  {
+    "pk": 7,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Антигуа и Барбуда"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Аргентина "
+    }
+  },
+  {
+    "pk": 9,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Армения "
+    }
+  },
+  {
+    "pk": 10,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Аруба"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Австралия "
+    }
+  },
+  {
+    "pk": 12,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Австрия "
+    }
+  },
+  {
+    "pk": 13,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Азербайджан"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": " Бахрейн"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бангладеш"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Барбадос"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Белоруссия"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бельгия"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": " Бенин"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бермуды "
+    }
+  },
+  {
+    "pk": 21,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бутан"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Боливия"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Босния и Герцеговина"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ботсвана "
+    }
+  },
+  {
+    "pk": 25,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бразилия "
+    }
+  },
+  {
+    "pk": 26,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бруней"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Болгария"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Буркина-Фасо"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бирма (Мьянма)"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Бурунди"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Камбоджа"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Камерун "
+    }
+  },
+  {
+    "pk": 33,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Канада"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Канарские острова"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кабо-Верде"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Центральноафриканская Республика"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Чад"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Чили"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Китай"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Колумбия"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Коморы"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Конго"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Коста-Рика "
+    }
+  },
+  {
+    "pk": 44,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Хорватия"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Куба"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кипр"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Чехия"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Дания"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Джибути"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Доминика"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Доминиканская Республика"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Эквадор"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Египет "
+    }
+  },
+  {
+    "pk": 54,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сальвадор"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Экваториальная Гвинея"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Эритрея"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Эстония"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Эфиопия"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Фолклендские острова"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Фиджи"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Финляндия"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Франция"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Французская Гвиана"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Французская Полинезия"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Габон"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Грузия"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Германия"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гана"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гибралтар"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Греция"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гренландия"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гренада"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гваделупа"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гуам"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гватемала"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гвинея"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гвинея-Бисау"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гайана"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гаити"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гондурас"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Венгрия"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Исландия"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Индия"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Индонезия"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Иран"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ирак"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ирландия"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Израиль"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Италия"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кот-д’Ивуар"
+    }
+  },
+  {
+    "pk": 91,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ямайка"
+    }
+  },
+  {
+    "pk": 92,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Япония"
+    }
+  },
+  {
+    "pk": 93,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Джонстон (атолл)"
+    }
+  },
+  {
+    "pk": 94,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Иордания"
+    }
+  },
+  {
+    "pk": 95,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Турецкая Республика Северного Кипра"
+    }
+  },
+  {
+    "pk": 96,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Казахстан"
+    }
+  },
+  {
+    "pk": 97,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кения"
+    }
+  },
+  {
+    "pk": 98,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Французские Южные и Антарктические Территории"
+    }
+  },
+  {
+    "pk": 99,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кирибати"
+    }
+  },
+  {
+    "pk": 100,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кувейт"
+    }
+  },
+  {
+    "pk": 101,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Кыргызстан"
+    }
+  },
+  {
+    "pk": 102,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Лаос"
+    }
+  },
+  {
+    "pk": 103,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Латвия"
+    }
+  },
+  {
+    "pk": 104,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ливан"
+    }
+  },
+  {
+    "pk": 105,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Лесото"
+    }
+  },
+  {
+    "pk": 106,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Либерия"
+    }
+  },
+  {
+    "pk": 107,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ливия"
+    }
+  },
+  {
+    "pk": 108,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Литва"
+    }
+  },
+  {
+    "pk": 109,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Люксембург"
+    }
+  },
+  {
+    "pk": 110,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Республика Македония"
+    }
+  },
+  {
+    "pk": 111,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мадагаскар"
+    }
+  },
+  {
+    "pk": 112,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Малави"
+    }
+  },
+  {
+    "pk": 113,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Малайзия"
+    }
+  },
+  {
+    "pk": 114,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мальдивы"
+    }
+  },
+  {
+    "pk": 115,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мали"
+    }
+  },
+  {
+    "pk": 116,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мальта"
+    }
+  },
+  {
+    "pk": 117,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Маршалловы Острова"
+    }
+  },
+  {
+    "pk": 118,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мартиника"
+    }
+  },
+  {
+    "pk": 119,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мавритания"
+    }
+  },
+  {
+    "pk": 120,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Маврикий"
+    }
+  },
+  {
+    "pk": 121,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мексика"
+    }
+  },
+  {
+    "pk": 122,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Федеративные Штаты Микронезии"
+    }
+  },
+  {
+    "pk": 123,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мидуэй"
+    }
+  },
+  {
+    "pk": 124,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Молдавия"
+    }
+  },
+  {
+    "pk": 125,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Монако"
+    }
+  },
+  {
+    "pk": 126,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Монголия"
+    }
+  },
+  {
+    "pk": 127,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Монтсеррат"
+    }
+  },
+  {
+    "pk": 128,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Марокко"
+    }
+  },
+  {
+    "pk": 129,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Мозамбик"
+    }
+  },
+  {
+    "pk": 130,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Намибия"
+    }
+  },
+  {
+    "pk": 131,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Непал"
+    }
+  },
+  {
+    "pk": 132,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Нидерланды"
+    }
+  },
+  {
+    "pk": 133,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Нидерландские Антильские острова"
+    }
+  },
+  {
+    "pk": 134,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Новая Каледония"
+    }
+  },
+  {
+    "pk": 135,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Новая Зеландия"
+    }
+  },
+  {
+    "pk": 136,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Никарагуа"
+    }
+  },
+  {
+    "pk": 137,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Нигер"
+    }
+  },
+  {
+    "pk": 138,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Нигерия"
+    }
+  },
+  {
+    "pk": 139,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Корейская Народно-Демократическая Республика"
+    }
+  },
+  {
+    "pk": 140,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Северная Ирландия"
+    }
+  },
+  {
+    "pk": 141,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Северные Марианские острова"
+    }
+  },
+  {
+    "pk": 142,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Норвегия"
+    }
+  },
+  {
+    "pk": 143,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Оман"
+    }
+  },
+  {
+    "pk": 144,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Пакистан"
+    }
+  },
+  {
+    "pk": 145,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Палау"
+    }
+  },
+  {
+    "pk": 146,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Пальмира"
+    }
+  },
+  {
+    "pk": 147,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Панама"
+    }
+  },
+  {
+    "pk": 148,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Папуа — Новая Гвинея"
+    }
+  },
+  {
+    "pk": 149,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Парагвай"
+    }
+  },
+  {
+    "pk": 150,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Перу"
+    }
+  },
+  {
+    "pk": 151,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Филиппины"
+    }
+  },
+  {
+    "pk": 152,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Польша"
+    }
+  },
+  {
+    "pk": 153,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Португалия"
+    }
+  },
+  {
+    "pk": 154,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Пуэрто-Рико"
+    }
+  },
+  {
+    "pk": 155,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Катар"
+    }
+  },
+  {
+    "pk": 156,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Реюньон"
+    }
+  },
+  {
+    "pk": 157,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Румыния"
+    }
+  },
+  {
+    "pk": 158,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Российская Федерация"
+    }
+  },
+  {
+    "pk": 159,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Руанда"
+    }
+  },
+  {
+    "pk": 160,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Остров Святой Елены"
+    }
+  },
+  {
+    "pk": 161,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сент-Винсент и Гренадины"
+    }
+  },
+  {
+    "pk": 162,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сан-Марино"
+    }
+  },
+  {
+    "pk": 163,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Саудовская Аравия"
+    }
+  },
+  {
+    "pk": 164,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сенегал"
+    }
+  },
+  {
+    "pk": 165,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сейшельские Острова"
+    }
+  },
+  {
+    "pk": 166,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сьерра-Леоне"
+    }
+  },
+  {
+    "pk": 167,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сингапур"
+    }
+  },
+  {
+    "pk": 168,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Словакия"
+    }
+  },
+  {
+    "pk": 169,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Словения"
+    }
+  },
+  {
+    "pk": 170,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Соломоновы Острова"
+    }
+  },
+  {
+    "pk": 171,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сомали"
+    }
+  },
+  {
+    "pk": 172,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Южно-Африканская Республика"
+    }
+  },
+  {
+    "pk": 173,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Южная Георгия и Южные Сандвичевы острова"
+    }
+  },
+  {
+    "pk": 174,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Республика Корея"
+    }
+  },
+  {
+    "pk": 175,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Испания"
+    }
+  },
+  {
+    "pk": 176,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Шри-Ланка"
+    }
+  },
+  {
+    "pk": 177,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сент-Китс и Невис"
+    }
+  },
+  {
+    "pk": 178,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сент-Люсия"
+    }
+  },
+  {
+    "pk": 179,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сен-Пьер и Микелон"
+    }
+  },
+  {
+    "pk": 180,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Судан"
+    }
+  },
+  {
+    "pk": 181,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Суринам"
+    }
+  },
+  {
+    "pk": 182,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Свазиленд"
+    }
+  },
+  {
+    "pk": 183,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Швеция"
+    }
+  },
+  {
+    "pk": 184,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Швейцария"
+    }
+  },
+  {
+    "pk": 185,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сирия"
+    }
+  },
+  {
+    "pk": 186,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Тайвань"
+    }
+  },
+  {
+    "pk": 187,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Таджикистан"
+    }
+  },
+  {
+    "pk": 188,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Танзания"
+    }
+  },
+  {
+    "pk": 189,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Таиланд"
+    }
+  },
+  {
+    "pk": 190,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Багамские Острова"
+    }
+  },
+  {
+    "pk": 191,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Гамбия"
+    }
+  },
+  {
+    "pk": 192,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Того"
+    }
+  },
+  {
+    "pk": 193,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Тонга"
+    }
+  },
+  {
+    "pk": 194,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Тринидад и Тобаго"
+    }
+  },
+  {
+    "pk": 195,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Тунис"
+    }
+  },
+  {
+    "pk": 196,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Турция"
+    }
+  },
+  {
+    "pk": 197,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Туркмения"
+    }
+  },
+  {
+    "pk": 198,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Теркс и Кайкос"
+    }
+  },
+  {
+    "pk": 199,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Объединённые Арабские Эмираты"
+    }
+  },
+  {
+    "pk": 200,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Великобритания"
+    }
+  },
+  {
+    "pk": 201,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "США"
+    }
+  },
+  {
+    "pk": 202,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Уганда"
+    }
+  },
+  {
+    "pk": 203,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Украина"
+    }
+  },
+  {
+    "pk": 204,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Уругвай"
+    }
+  },
+  {
+    "pk": 205,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Узбекистан"
+    }
+  },
+  {
+    "pk": 206,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Вануату"
+    }
+  },
+  {
+    "pk": 207,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Венесуэла"
+    }
+  },
+  {
+    "pk": 208,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Вьетнам"
+    }
+  },
+  {
+    "pk": 209,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Уэйк"
+    }
+  },
+  {
+    "pk": 210,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Уэльс"
+    }
+  },
+  {
+    "pk": 211,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Самоа"
+    }
+  },
+  {
+    "pk": 212,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Йемен"
+    }
+  },
+  {
+    "pk": 213,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Демократическая Республика Конго"
+    }
+  },
+  {
+    "pk": 214,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Замбия"
+    }
+  },
+  {
+    "pk": 215,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Зимбабве"
+    }
+  },
+  {
+    "pk": 216,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Лихтенштейн"
+    }
+  },
+  {
+    "pk": 217,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Каймановы острова"
+    }
+  },
+  {
+    "pk": 218,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Остров Рождества"
+    }
+  },
+  {
+    "pk": 219,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Косово"
+    }
+  },
+  {
+    "pk": 220,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Макао"
+    }
+  },
+  {
+    "pk": 221,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Майотта"
+    }
+  },
+  {
+    "pk": 222,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Черногория"
+    }
+  },
+  {
+    "pk": 223,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Ниуэ"
+    }
+  },
+  {
+    "pk": 224,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Палестина"
+    }
+  },
+  {
+    "pk": 225,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сен-Мартен"
+    }
+  },
+  {
+    "pk": 226,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сан-Томе и Принсипи"
+    }
+  },
+  {
+    "pk": 227,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Сербия"
+    }
+  },
+  {
+    "pk": 228,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Шпицберген и Ян-Майен"
+    }
+  },
+  {
+    "pk": 229,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Восточный Тимор"
+    }
+  },
+  {
+    "pk": 230,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Тувалу"
+    }
+  },
+  {
+    "pk": 231,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Виргинские острова Америка"
+    }
+  },
+  {
+    "pk": 232,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Виргинские острова"
+    }
+  },
+  {
+    "pk": 233,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Уоллис и Футуна"
+    }
+  },
+  {
+    "pk": 234,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Белиз"
+    }
+  },
+  {
+    "pk": 235,
+    "model": "electrical_engineering.Country",
+    "fields": {
+      "name": "Науру"
+    }
+  }
+]

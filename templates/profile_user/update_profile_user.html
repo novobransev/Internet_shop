@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <div class="d-grid gap-2 d-md-block mt-2">
+                <button type="submit" class="btn btn-dark">Обновить</button>
+            </div>
+        </form>
+        <a href="{% url 'profile' user_id %}">Назад</a>
+
+</body>
+</html>

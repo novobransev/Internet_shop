@@ -1,0 +1,72 @@
+[
+  {
+    "pk": 0,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Смартфоны"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Планшеты"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Ноутбуки"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Компьютеры и аксессуары"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Аудиотехника"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Телевизоры и видеотехника"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Камеры и фотоаппараты"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Игровые приставки и аксессуары"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Умные устройства"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "electrical_engineering.Category",
+    "fields": {
+      "name": "Электронные аксессуары"
+    }
+  }
+]

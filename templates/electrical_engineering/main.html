@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% if all_products %}
+    {% for object in all_products %}
+        <div style="border:1px solid black;">
+            <a href="{% url 'detail_product' object.id %}"><img src="{{ object.image.url }}" alt="" width="150px" height="150px"></a> <br>
+            {{ object.name }} <br>
+        </div>
+    {% endfor %}
+{% else %}
+К сожалению товаров нет
+{% endif %}
+
+</body>
+</html>

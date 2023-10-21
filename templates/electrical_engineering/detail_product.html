@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Подробная страница, где юзер может просмотреть товар и поставить оценку
+
+        <div style="border:1px solid black;">
+            {{ error }}
+            <img src="{{ detail_product.image.url }}" alt="" width="150px" height="150px"> <br>
+            {{ detail_product.name }} <br>
+            {{ detail_product.description }} <br>
+            {{ detail_product.category }} <br>
+            {{ detail_product.price }} <br>
+            {{ detail_product.quantity }} <br>
+            {{ detail_product.manufacturer }} <br>
+            {{ detail_product.country }} <br>
+            {{ detail_product.city_shop }} <br>
+            {{ detail_product.rating_products }} <br>
+            {{ detail_product.date_added }} <br>
+            {{ views }} <br>
+            <form method="post">
+                {% csrf_token %}
+                {{ form }}
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+</body>
+</html>
